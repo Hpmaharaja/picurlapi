@@ -2,7 +2,7 @@
   "name": "pixapi",
   "version": "1.0.0",
   "description": "upload image for url",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
